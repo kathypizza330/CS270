@@ -1,0 +1,19 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	GO2lower          3057
+//	Result            3003
+//	NADD              3046
+//	CheckleftShift    3043
+//	Main              3004
+//	Needle            3002
+//	DONE              306A
+//	FOUND             3055
+//	GOON              303B
+//	Finish            3014
+//	Stack             3001
+//	Haystack          3016
+//	BinarySearch      302A
+//	Count             3015
+//	GO2upper          3060
